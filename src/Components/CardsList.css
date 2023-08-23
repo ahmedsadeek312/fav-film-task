@@ -1,0 +1,10 @@
+.movies-container {
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.input-container {
+  margin-top: 5%;
+}
